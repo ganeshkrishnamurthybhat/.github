@@ -1,10 +1,10 @@
-Desktop-CGI is a desktop executable app that can be created from any CGI files or CGI web apps that can be served from an file, an embedded web server using proxy, or an remote proxy web server. It supports embedding and managing embeddable databases and executables. It supports all major Operating systems supported by electron like Windows, Linux, and MacOS supported by Electron.
-
-
 `[Funding Invited]`
 
 
 ![Desktop CGI](https://github.com/desktop-cgi/desktop-cgi/blob/master/desktop-cgi.jpeg)
+
+
+Desktop-CGI is a desktop executable app that can be created from any CGI files or CGI web apps that can be served from an file, an embedded web server using proxy, or an remote proxy web server. It supports embedding and managing embeddable databases and executables. It supports all major Operating systems supported by electron like Windows, Linux, and MacOS supported by Electron.
 
 
 # Highlights
