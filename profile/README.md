@@ -39,4 +39,4 @@ The script can proxy to any File, most embeddable web servers, and/ or Proxy-abl
 
 * Application Dependencies:
     - cgi-js: (>=1.0.0)
-    - electron": (>=18.1.0)
+    - electron: (>=18.1.0)
