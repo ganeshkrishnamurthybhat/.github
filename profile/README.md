@@ -15,23 +15,6 @@ Desktop-CGI can serve any CGI files, OR CGI / Scripted / Interpreted languages l
 Desktop-CGI runs an Electron - Node - Express - cgijs based application under the hood and supports major Operating systems like Windows, Linux, Mac or any operating systems supported by Electron.
 
 
-##### Electron based Desktop application that runs CGI Server
-
-* `cgijs` is Nodejs framework independent / agnostic for serving CGI or interpreted scripting apps via files, or server based web apps via proxies
-    - Express Recommended and used for demo
-* Run any script files that supports CGI based file script serving - using `cgijs file` module
-* Run any host that serves a web app - using `cgijs proxy` module
-    - In App / Local / Remote proxy support
-* Allows
-    - running multiple interpreters in one app
-    - running multiple proxies (currently http, websockets, tcp, udp. grpc planned) in one app
-    - multiple embedded servers in one app
-* Allows embedding servers like httpd, nginx, etc to serve web applications - using `cgijs process` module
-* Allows embedding database servers (in development) - using `cgijs process` module
-
-The script can proxy to any File, most embeddable web servers, and/ or Proxy-able local / remote servers; even IIS Server (Allows Proxy)
-
-
 ##### Package Dependencies:
 
 * Library dependencies:
