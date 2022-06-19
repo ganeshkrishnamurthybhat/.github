@@ -1,2 +1,2 @@
 # .github
-Read me for the project
+Read me github for the project Desktop-CGI
