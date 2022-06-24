@@ -1,5 +1,6 @@
 ![Desktop CGI](https://github.com/desktop-cgi/desktop-cgi/blob/master/desktop-cgi.jpeg)
 
+Status: Active MVP Development for Active Use: v2.0.0
 
 `[Funding Invited]`
 
