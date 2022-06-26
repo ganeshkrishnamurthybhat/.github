@@ -23,6 +23,6 @@ Desktop-CGI runs an Electron - Node - Express - cgijs based application under th
     - Nodejs: (> 8.x)
 
 * Application Dependencies:
-    - cgi-js: (>=1.0.0)
+    - cgi-js: (>=1.1.0)
     - electron: (>=18.1.0)
     - relevant compiling packages
