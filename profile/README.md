@@ -17,6 +17,10 @@ Desktop-CGI can serve any CGI files, OR CGI / Scripted / Interpreted languages l
 Desktop-CGI runs an Electron - Node - Express - cgijs based application under the hood and supports major Operating systems like Windows, Linux, Mac or any operating systems supported by Electron.
 
 
+# DesktopCGI - Use Case for contribution and funding
+
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/f3m1jh6HcMbDSQ?hostedIn=slideshare&page=upload" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
 ##### Package Dependencies:
 
 * Library dependencies:
